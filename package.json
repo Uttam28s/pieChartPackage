@@ -1,0 +1,19 @@
+{
+  "name": "piechart-storybook",
+  "version": "1.0.0",
+  "description": "piechart story book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uttam28s/pieChartPackage.git"
+  },
+  "author": "Uttam Moradiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uttam28s/pieChartPackage/issues"
+  },
+  "homepage": "https://github.com/Uttam28s/pieChartPackage#readme"
+}
